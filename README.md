@@ -3,6 +3,13 @@
 ![Alt text](newplot.png)
 ![Alt text](<newplot (1).png>)
 ![Alt text](<newplot (2).png>)
+![Alt text](<newplot (3).png>)
+![Alt text](<newplot (4).png>)
+![Alt text](<newplot (5).png>)
+![Alt text](<newplot (6).png>)
+
+
+
 
 <p>EWR airport has the highest number of departure delays and JFK airport has the highest number of arrival delays.</br>
 LGA airport is best in terms of departure and arrival delay, where as EWR is worst with 5000+ delayed flights.
